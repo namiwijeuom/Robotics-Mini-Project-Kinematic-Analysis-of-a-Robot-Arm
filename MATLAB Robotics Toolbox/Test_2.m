@@ -1,0 +1,1 @@
+open_system('coord_trans_block_example_model.slx')
