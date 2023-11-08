@@ -1,0 +1,2 @@
+[0.045s] Invoking command in '/home/namiwije/arduinobot_ws/build/arduinobot_cpp_examples': /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_cpp_examples -- -j8 -l8
+[0.196s] Invoked command in '/home/namiwije/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_cpp_examples -- -j8 -l8

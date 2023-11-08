@@ -1,0 +1,9 @@
+[0.127s] Invoking command in '/home/namiwije/arduinobot_ws/build/arduinobot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_controller -- -j8 -l8
+[0.138s] [31mCMake Error at CMakeLists.txt:13:
+[0.138s]   Parse error.  Expected "(", got identifier with text "config".
+[0.138s] 
+[0.138s] [0m
+[0.138s] -- Configuring incomplete, errors occurred!
+[0.138s] See also "/home/namiwije/arduinobot_ws/build/arduinobot_controller/CMakeFiles/CMakeOutput.log".
+[0.139s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.315s] Invoked command in '/home/namiwije/arduinobot_ws/build/arduinobot_controller' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_controller -- -j8 -l8

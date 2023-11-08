@@ -1,0 +1,2 @@
+[0.034s] Invoking command in '/home/namiwije/arduinobot_ws/build/arduinobot_description': /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_description -- -j8 -l8
+[0.184s] Invoked command in '/home/namiwije/arduinobot_ws/build/arduinobot_description' returned '0': /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_description -- -j8 -l8

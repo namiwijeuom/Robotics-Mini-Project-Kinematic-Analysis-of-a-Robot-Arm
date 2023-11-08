@@ -1,0 +1,42 @@
+[0.096s] Invoking command in '/home/namiwije/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/namiwije/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_description -- -j8 -l8
+[0.109s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.201s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.248s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.248s] -- Added test 'lint_cmake' to check CMake code style
+[0.248s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.249s] -- Added test 'xmllint' to check XML markup files
+[0.249s] -- Configuring done
+[0.251s] -- Generating done
+[0.252s] -- Build files have been written to: /home/namiwije/arduinobot_ws/build/arduinobot_description
+[0.308s] Invoked command in '/home/namiwije/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/namiwije/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/namiwije/arduinobot_ws/build/arduinobot_description -- -j8 -l8
+[0.328s] Invoking command in '/home/namiwije/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/namiwije/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/namiwije/arduinobot_ws/build/arduinobot_description
+[0.334s] -- Install configuration: ""
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/servo_plate.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/plate.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/claw_support.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/horizontal_arm.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/basement.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/vertical_drive_arm.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/triangular_link.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/forward_drive_arm.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/pi_camera.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/round_plate.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/left_finger.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/base_plate.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/link.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/right_finger.STL
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/gazebo.launch.py
+[0.335s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/display.launch.py
+[0.336s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz
+[0.336s] -- Up-to-date: /home/namiwije/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz/display.rviz
+[0.336s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.336s]   file INSTALL cannot find
+[0.336s]   "/home/namiwije/arduinobot_ws/src/arduinobot_description/config": No such
+[0.336s]   file or directory.
+[0.336s] 
+[0.336s] [0m
+[0.379s] Invoked command in '/home/namiwije/arduinobot_ws/build/arduinobot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/namiwije/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/namiwije/arduinobot_ws/build/arduinobot_description
